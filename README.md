@@ -29,7 +29,6 @@ Formula pengisian matriks skor yang dilakukan pada Needleman-Wunsch adalah sebag
 </div>
 
 Keterangan:
-
 ```
 d: skor gap penalty
 s(x; y): skor penyelarasan suatu basa x dari rantai S dengan basa y dari rantai T
@@ -71,10 +70,11 @@ Tulis sebuah README dalam repository kalian yang berisi hal-hal berikut:
 3. Referensi, framework, dan library yang membantu kalian dalam mengerjakan tugas ini beserta alasan penggunaannya.
 
 Untuk demo, kamu dapat membuat video screen record sederhana dengan voice over menjelaskan algoritma Needleman-Wunsch secara singkat, implementasi algoritma pada program, cara penggunaan program, dan kasus uji program (sekuens DNA 30 karakter, 40 karakter, dan 50 karakter) . Sekalian jelasin ini dong hehe:
-Matkul IRK fav
-Dosen & Asisten IRK yang berkesan
-Pengen jadi asisten matkul apa aja kalau jadi asisten (amin)
-Ekspektasi pas udah jadi asisten IRK
+1. Matkul IRK fav
+2. Dosen & Asisten IRK yang berkesan
+3. Pengen jadi asisten matkul apa aja kalau jadi asisten (amin)
+4. Ekspektasi pas udah jadi asisten IRK
+   
 Video diupload ke GDrive atau YouTube (salah satu aja bebas). Kreativitas video tidak dinilai, jadi buat yang simpel saja ya. 
 
 ## Spesifikasi Bonus
