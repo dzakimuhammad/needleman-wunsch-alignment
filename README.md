@@ -56,7 +56,7 @@ Pada tugas ini, kalian akan diminta untuk membuat sebuah program yang mengaplika
 2. Program menerima input berupa dua buah sekuens DNA (Rantai ATCG) yang memiliki perbedaan panjang tidak lebih dari 5 karakter dan masing-masing sekuens minimal memiliki 30 karakter
 3. Program dapat dikembangkan dengan bahasa pemrograman apapun
 4. Diperbolehkan menggunakan library seperti numpy untuk mempermudah pembentukan matriks dsb. Tetapi, implementasi algoritma from scratch akan sangat dihargai
-5. Program dapat menampilkan runtime program, hasil alignment kedua sekuens DNA, matriks hasil algoritma Needleman-Wunsch serta menampilkan rute traceback (boleh ditampilkan terpisah maupun dalam satu matriks yang sama, misalnya dengan memberi warna)
+5. Program dapat menampilkan runtime program, hasil alignment kedua sekuens DNA, matriks hasil algoritma Needleman-Wunsch serta menampilkan rute traceback (ditampilkan dalam satu matriks yang sama, misalnya dengan memberi warna)
 6. Pastikan algoritma Needleman-Wunsch yang kalian implementasikan tetap mengaplikasikan dynamic programming
 7. Skema scoring yang digunakan adalah : +1 (match), -1 (mismatch), -2 (gap)
 
@@ -80,7 +80,7 @@ Video diupload ke GDrive atau YouTube (salah satu aja bebas). Kreativitas video 
 ## Spesifikasi Bonus (1000 poin)
 Implementasi program dengan GUI bisa dalam bentuk Web maupun Desktop App dengan minimal spesifikasi sebagai berikut :
 1. Dapat input 2 sekuens DNA dengan ketentuan yang sama dengan spek wajib (format input dibebaskan dalam bentuk file maupun textbox)
-2. Dapat menampilkan runtime program, hasil alignment kedua sekuens DNA, matriks hasil algoritma Needleman-Wunsch serta menampilkan rute traceback (boleh ditampilkan terpisah maupun dalam satu matriks yang sama, misalnya dengan memberi warna atau menyertakan panah arah)
+2. Dapat menampilkan runtime program, hasil alignment kedua sekuens DNA, matriks hasil algoritma Needleman-Wunsch serta menampilkan rute traceback (ditampilkan dalam satu matriks yang sama, misalnya dengan memberi warna atau menyertakan panah arah)
 3. Terdapat halaman panduan penggunaan program dan informasi pembuat
 
 ## Pengerjaan dan Pengumpulan
