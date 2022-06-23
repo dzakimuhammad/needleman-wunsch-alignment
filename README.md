@@ -77,7 +77,7 @@ Untuk demo, kamu dapat membuat video screen record sederhana dengan voice over m
    
 Video diupload ke GDrive atau YouTube (salah satu aja bebas). Kreativitas video tidak dinilai, jadi buat yang simpel saja ya. 
 
-## Spesifikasi Bonus
+## Spesifikasi Bonus (1000 poin)
 Implementasi program dengan GUI bisa dalam bentuk Web maupun Desktop App dengan minimal spesifikasi sebagai berikut :
 1. Dapat input 2 sekuens DNA dengan ketentuan yang sama dengan spek wajib (format input dibebaskan dalam bentuk file maupun textbox)
 2.Dapat menampilkan runtime program, hasil alignment kedua sekuens DNA, matriks hasil algoritma Needleman-Wunsch serta menampilkan rute traceback (boleh ditampilkan terpisah maupun dalam satu matriks yang sama, misalnya dengan memberi warna atau menyertakan panah arah)
