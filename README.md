@@ -46,7 +46,7 @@ Contoh, hasil matriks F menggunakan algoritma Needleman-Wunsch ditampilkan pada 
 
 </div>
 
-Detail dan penjelasan lebih lengkap dapat anda lihat pada sumber-sumber pada bab Referensi
+Detail dan penjelasan lebih lengkap dapat anda lihat pada sumber-sumber pada bab [Referensi](#referensi)
 
 Pada tugas ini, kalian akan diminta untuk membuat sebuah program yang mengaplikasikan algoritma Needleman-Wunsch untuk mencari penyelarasan optimal antar 2 rantai DNA lalu menampilkan hasil penyelarasan serta matriks yang digunakan.
 
@@ -86,7 +86,7 @@ Implementasi program dengan GUI bisa dalam bentuk Web maupun Desktop App dengan 
 ## Pengerjaan dan Pengumpulan
 1. Buat repository pada Github kalian masing-masing dan invite `dzakimuhammad` ke dalam repository tersebut.
 2. Buatlah sebuah issue pada repository ini jika kalian memiliki pertanyaan terkait tugas ini.
-3. Pengumpulan dapat dilakukan dengan mengisi <a href="https://forms.gle/Q7GtkgRbLtToKPYR7">form ini</a>
+3. Pengumpulan dapat dilakukan dengan mengisi [form ini](https://forms.gle/Q7GtkgRbLtToKPYR7)
 
 ## Referensi
 -  https://www.cs.sjsu.edu/~aid/cs152/NeedlemanWunsch.pdf
