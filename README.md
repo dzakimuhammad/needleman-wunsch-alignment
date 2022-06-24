@@ -55,7 +55,7 @@ Pada tugas ini, kalian akan diminta untuk membuat sebuah program yang mengaplika
 ## Spesifikasi Wajib (2500 poin)
 ### Spesifikasi Program (2000 poin)
 1. Program dijalankan di terminal
-2. Program menerima input berupa dua buah sekuens DNA (Rantai ATCG) yang memiliki perbedaan panjang tidak lebih dari 5 karakter dan masing-masing sekuens minimal memiliki ~~30 karakter~~ ***10 karakter***
+2. Program menerima input berupa dua buah sekuens DNA (Rantai ATCG) yang memiliki perbedaan panjang tidak lebih dari 5 karakter dan masing-masing sekuens minimal memiliki ~~30 karakter~~ ***20 karakter***
 3. Program dapat dikembangkan dengan bahasa pemrograman apapun
 4. Diperbolehkan menggunakan library seperti numpy untuk mempermudah pembentukan matriks dsb. Tetapi, implementasi algoritma from scratch akan sangat dihargai
 5. Program dapat menampilkan runtime program, hasil alignment kedua sekuens DNA, matriks hasil algoritma Needleman-Wunsch serta menampilkan rute traceback (ditampilkan dalam satu matriks yang sama, misalnya dengan memberi warna)
@@ -71,7 +71,7 @@ Tulis sebuah README dalam repository kalian yang berisi hal-hal berikut:
    - Alasan penetapan skema scoring pada bagian Spesifikasi Program poin 7
 3. Referensi, framework, dan library yang membantu kalian dalam mengerjakan tugas ini beserta alasan penggunaannya.
 
-Untuk demo, kamu dapat membuat video screen record sederhana dengan voice over menjelaskan algoritma Needleman-Wunsch secara singkat, implementasi algoritma pada program, cara penggunaan program, dan kasus uji program (sekuens DNA ~~30 karakter, 40 karakter, dan 50 karakter~~ ***10 karakter, 15 karakter, dan 25 karakter***) . Sekalian jelasin ini dong hehe:
+Untuk demo, kamu dapat membuat video screen record sederhana dengan voice over menjelaskan algoritma Needleman-Wunsch secara singkat, implementasi algoritma pada program, cara penggunaan program, dan kasus uji program (sekuens DNA ~~30 karakter, 40 karakter, dan 50 karakter~~ ***20 karakter, 25 karakter, dan 30 karakter***) . Sekalian jelasin ini dong hehe:
 1. Matkul IRK fav
 2. Dosen & Asisten IRK yang berkesan
 3. Pengen jadi asisten matkul apa aja kalau jadi asisten (amin)
