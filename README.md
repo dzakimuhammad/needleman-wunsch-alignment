@@ -1,7 +1,9 @@
 # Global DNA Sequence Alignment using Needleman-Wunsch Algorithm
-Tugas CaIRK 2020
+Versi 24 Juni 2022
 
-Memanfaatkan algoritma Needleman-Wunsch untuk mengetahui penyelarasan/mutasi antar 2 sekuens DNA
+Changelog:
+- Jumlah minimal karakter sekuens DNA yang harus diinput (Spesifikasi Wajib Program Poin 2)
+- Kasus uji program
 
 ## Deskripsi Tugas
 Global Sequence Alignment adalah proses membandingkan dua buah atau lebih sekuens DNA, RNA, atau protein untuk mengidentifikasi kemungkinan mutasi yang terjadi dari satu menjadi yang lainnya dengan mempertimbangkan seluruh elemen pada kedua sekuens secara menyeluruh.
